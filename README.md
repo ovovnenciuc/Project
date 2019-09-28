@@ -15,6 +15,6 @@ Project repository for tes
 
 7. Nicanor
 
-8. Diana
+8. Diana Lari
 
 10. Gutu Ala
