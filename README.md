@@ -1,6 +1,7 @@
 # Project
 Project repository for test
 1. Bordian Aliona
+2. Gutu Ala
 3.Lupescu Vasile
 2.Cazacu Victoria
 6. Victor Noni
