@@ -1,0 +1,33 @@
+When install git
+1)git config --global user.name "user name " 
+2)git config --global user.email name@example.com
+
+How to add fille to git or bitbucket
+1)git init
+2)git status
+3)git add .
+4)git add name_file.extention
+5)git commit -m 'another commit'
+6)git push -u origin master
+
+How to view all commit
+1)git log
+
+How to work with branch
+1) git branch testing      	# create a new brach testing
+2) git checkout testing 	# trece pe ramura testing
+3) git checkout -b test 	# creare a unei ramuri noi plus trecere
+4)git branch -d hotfix 	# sterge ramura
+
+
+------ 
+on branch nicanor
+1) git add . 
+2) git commit -m
+3) git pull
+4) git checkout master
+
+on branch master
+1) git merge nicanor
+2) git push
+3)
