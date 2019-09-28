@@ -8,8 +8,7 @@ Project repository for tes
 
 4. Gandrabura Aurel
 
-5.Crimneac Vadim
-
+5. Crimneac Vadim
 
 
 6. Victor Noni
