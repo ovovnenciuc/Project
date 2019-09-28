@@ -18,8 +18,3 @@ How to work with branch
 2) git checkout testing 	# trece pe ramura testing
 3) git checkout -b test 	# creare a unei ramuri noi plus trecere
 4)git branch -d hotfix 	# sterge ramura
-
-https://tproger.ru/translations/beginner-git-cheatsheet/?utm_source=pulse_mail_ru
-
-https://rubygarage.org/blog/most-basic-git-commands-with-examples
-
