@@ -1,6 +1,7 @@
 # Project
 Project repository for test
 3.Lupescu Vasile
+2.Cazacu Victoria
 6. Victor Noni
 <<<<<<< HEAD
 7. Nicanor
