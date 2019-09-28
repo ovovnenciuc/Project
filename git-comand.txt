@@ -18,3 +18,16 @@ How to work with branch
 2) git checkout testing 	# trece pe ramura testing
 3) git checkout -b test 	# creare a unei ramuri noi plus trecere
 4)git branch -d hotfix 	# sterge ramura
+
+
+------ 
+on branch nicanor
+1) git add . 
+2) git commit -m
+3) git pull
+4) git checkout master
+
+on branch master
+1) git merge nicanor
+2) git push
+3)
