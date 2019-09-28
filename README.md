@@ -7,8 +7,7 @@
 
 4. Gandrabura Aurel
 
-5.Crimneac Vadim
-
+5. Crimneac Vadim
 
 
 6. Victor Noni
