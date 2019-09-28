@@ -14,10 +14,7 @@
 
 7. Nicanor gvdf
 
-8. Diana
+8. Diana Lari
 
-<<<<<<< HEAD
-fd
-=======
 10. Gutu Ala
->>>>>>> 086d2bb5cac9255ef1b2572f56d9eeb7cb7d3872
+
