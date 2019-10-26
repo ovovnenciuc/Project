@@ -11,11 +11,12 @@
 
 6. Victor Noni
 
-7. Nicanor gvdf
+7. Nicanor 
 
 8. Diana Lari
 
 9. Cristina Bantus
 
 10. Gutu Ala
+
 
